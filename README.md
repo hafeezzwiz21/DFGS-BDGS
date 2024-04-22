@@ -1,14 +1,4 @@
-Abstract—Grover’s quantum search algorithm is one of the
-well-known applications of quantum computing, enabling quan-
-tum computers to perform a database search (unsorted array)
-and quadratically outperform their classical counterparts in
-terms of time. Despite the efficient database search for an Oracle
-model (black box), researchers have shown several Grover circuit
-implementations across various platforms. Nevertheless, Grover’s
-search methods, including various Partial Grover searches, expe-
-rience scaling problems as the number of iterations rises, making
-implementation more computationally expensive. This paper
-combines Partial Grover’s search algorithm and Bi-directional
+This paper combines Partial Grover’s search algorithm and Bi-directional
 Search to create a fast Grover’s quantum search algorithm,
 referred to as Bi-Directional Grover Search (BDGS). We in-
 corporated a Bi-directional search tactic with Partial Grover
