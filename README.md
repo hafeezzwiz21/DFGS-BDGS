@@ -22,4 +22,4 @@ against the state-of-the-art Depth-First Grover’s Search (DFGS)
 and generic Grover’s Search (GS) implementations for 2 to 20
 qubits and provides an optimal solution. The Qiskit Python
 implementation of the proposed BDGS algorithm is available
-on Github
+here in this repository.
